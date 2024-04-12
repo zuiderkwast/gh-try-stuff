@@ -1,5 +1,5 @@
 name: crash-report
-title: [CRASH]
+title: "[CRASH]"
 description: Report a crash
 body:
   - type: markdown
